@@ -20,6 +20,7 @@ Role Variables
 --------------
 
 | Vars | Description |
+|---|---|
 | lighthouse_dest_dir | Directory lighthouse for nginx |
 
 Dependencies
